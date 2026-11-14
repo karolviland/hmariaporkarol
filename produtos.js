@@ -659,7 +659,9 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Berloque signo de Libra",
+    "nome": "Berloque profissão Nutrição",
+    "secao": "berloques",
+    "modelo": "Profissões",
     "imagem": "assets/produtos/ivory/47091.png?v=ivory-54",
     "catalogoNovo": false
   },
