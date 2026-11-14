@@ -5162,7 +5162,7 @@ const PRODUTOS = [
 ];
 
 // Mantém a quantidade de peças da vitrine Novidades da Home.
-const NOVIDADES_IDS = ["59786","42238","59462","59410","44056","69279"];
+const NOVIDADES_IDS = ["42099","42238","59462","60607","61273","69284"];
 
 /* Círculos de categoria do topo — "capa" é o código da peça usada como foto */
 const CATEGORIAS = [
