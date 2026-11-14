@@ -1012,7 +1012,7 @@ const cardMiniHTML = p => `
 
 const favs = new Set();
 const render = (sel, lista) => { const target=$(sel); if(target)target.innerHTML=lista.map(p => cardHTML(p)).join(""); };
-render("#rail-desired", ["68287","71496","69233","71158","63108","59336"].map(byId));
+render("#rail-desired", ["68287","71496","69233","69279","59786","42250"].map(byId));
 render("#rail-brincos", PRODUTOS.filter(p => p.cat === "Brincos").slice(0, 12));
 // Marque vitrine: "para-eles" em produtos.js para adicionar peças a esta seleção.
 const pecasParaEles = PRODUTOS.filter(p => p.vitrine === "para-eles");
