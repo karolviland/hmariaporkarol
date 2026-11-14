@@ -25,7 +25,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/61414.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/61414.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "71171",
@@ -36,7 +37,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/71171.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/71171.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "43117",
@@ -47,7 +49,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/43117.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/43117.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "95403",
@@ -58,7 +61,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/95403.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/95403.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "95908",
@@ -69,7 +73,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/95908.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/95908.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "71219",
@@ -80,7 +85,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/71219.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/71219.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "43135",
@@ -91,7 +97,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/43135.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/43135.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "60652",
@@ -102,7 +109,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/60652.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/60652.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "63027",
@@ -113,7 +121,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/63027.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/63027.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "70110",
@@ -124,7 +133,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/70110.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/70110.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "44216",
@@ -135,7 +145,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/44216.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/44216.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "61447",
@@ -146,7 +157,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "favoritas",
-    "imagem": "assets/produtos/pg-1710/61447.png?v=pg-1710"
+    "imagem": "assets/produtos/pg-1710/61447.png?v=pg-1710",
+    "catalogoNovo": false
   },
   {
     "id": "59842",
@@ -157,7 +169,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Brinco longo de correntes com corações",
-    "imagem": "assets/produtos/ivory/59842.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59842.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "68198",
@@ -168,7 +181,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Anel solitário chatón cristal",
-    "imagem": "assets/produtos/ivory/68198.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/68198.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43194",
@@ -179,7 +193,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Anel fino minimalista com dobra",
-    "imagem": "assets/produtos/ivory/43194.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43194.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "49008",
@@ -190,7 +205,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Colar pingente menina",
-    "imagem": "assets/produtos/ivory/49008.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/49008.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "63468",
@@ -201,7 +217,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Anel croissant canelado",
-    "imagem": "assets/produtos/ivory/63468.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/63468.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59246",
@@ -212,7 +229,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Colar de corações lisos",
-    "imagem": "assets/produtos/ivory/59246.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59246.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43209",
@@ -223,7 +241,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Colar ponto de luz 45cm",
-    "imagem": "assets/produtos/ivory/43209.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43209.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43175",
@@ -234,7 +253,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Colar coração love com zircônia",
-    "imagem": "assets/produtos/ivory/43175.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43175.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "61917",
@@ -245,7 +265,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Colar nó com gota de cristal",
-    "imagem": "assets/produtos/ivory/61917.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/61917.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "44240",
@@ -256,7 +277,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "destaques",
     "nome": "Anel largo entrelaçado com pavê",
-    "imagem": "assets/produtos/ivory/44240.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/44240.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "61844",
@@ -267,7 +289,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Pulseira de corações",
-    "imagem": "assets/produtos/ivory/61844.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/61844.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59132",
@@ -278,7 +301,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Colar laço cravejado com coração",
-    "imagem": "assets/produtos/ivory/59132.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59132.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43559",
@@ -289,7 +313,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Brinco argola larga cravejada",
-    "imagem": "assets/produtos/ivory/43559.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43559.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "60475",
@@ -300,7 +325,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Brinco gota cravejada – 3 tamanhos",
-    "imagem": "assets/produtos/ivory/60475.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/60475.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "61729",
@@ -311,7 +337,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Gargantilha riviera de pedras coloridas",
-    "imagem": "assets/produtos/ivory/61729.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/61729.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71221",
@@ -322,7 +349,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Pingente letra cravejada",
-    "imagem": "assets/produtos/ivory/71221.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71221.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71105",
@@ -333,7 +361,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "favoritas",
     "nome": "Brinco trevo com coração cravejado",
-    "imagem": "assets/produtos/ivory/71105.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71105.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71066",
@@ -345,7 +374,7 @@ const PRODUTOS = [
     "vitrine": "",
     "nome": "Brinco Prata 925",
     "imagem": "assets/produtos/catalogo-1610/71066.png?v=1610",
-    "catalogoNovo": true
+    "catalogoNovo": false
   },
   {
     "id": "60398",
@@ -356,7 +385,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco leque com pedra rosa",
-    "imagem": "assets/produtos/ivory/60398.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/60398.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "63064",
@@ -367,7 +397,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Pulseira fé com São Bento e cruz",
-    "imagem": "assets/produtos/ivory/63064.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/63064.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "89561",
@@ -378,7 +409,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco ponto de luz em zircônia negra",
-    "imagem": "assets/produtos/ivory/89561.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/89561.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43129",
@@ -389,7 +421,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar letra cravejada com corrente veneziana",
-    "imagem": "assets/produtos/ivory/43129.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43129.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59116",
@@ -400,7 +433,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Pulseira com pedras coloridas",
-    "imagem": "assets/produtos/ivory/59116.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59116.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71052",
@@ -411,7 +445,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Conjunto safira azul com halo",
-    "imagem": "assets/produtos/ivory/71052.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71052.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "63091",
@@ -422,7 +457,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar coração triplo cravejado",
-    "imagem": "assets/produtos/ivory/63091.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/63091.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59166",
@@ -433,7 +469,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Pingente árvore da vida com zircônias verdes",
-    "imagem": "assets/produtos/ivory/59166.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59166.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "65066",
@@ -444,7 +481,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Anel pastilha redonda cravejada",
-    "imagem": "assets/produtos/ivory/65066.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/65066.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "44817",
@@ -455,7 +493,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco alongado com coração e estrela",
-    "imagem": "assets/produtos/ivory/44817.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/44817.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "60413",
@@ -466,7 +505,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar coração vazado cravejado",
-    "imagem": "assets/produtos/ivory/60413.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/60413.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43183",
@@ -477,7 +517,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Anel coração cravejado em zircônias",
-    "imagem": "assets/produtos/ivory/43183.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43183.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71170",
@@ -488,7 +529,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Tornozeleira com berloques de proteção",
-    "imagem": "assets/produtos/ivory/71170.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71170.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59321",
@@ -500,7 +542,7 @@ const PRODUTOS = [
     "vitrine": "",
     "nome": "Colar mãe com árvore da vida",
     "imagem": "assets/produtos/catalogo-1610/59321.png?v=1610",
-    "catalogoNovo": true
+    "catalogoNovo": false
   },
   {
     "id": "71472",
@@ -511,7 +553,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco ponto de luz verde esmeralda",
-    "imagem": "assets/produtos/ivory/71472.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71472.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59439",
@@ -522,7 +565,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar elos com corações",
-    "imagem": "assets/produtos/ivory/59439.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59439.png?v=ivory-54",
+    "catalogoNovo": true
   },
   {
     "id": "68234",
@@ -533,7 +577,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco argola larga cravejada",
-    "imagem": "assets/produtos/ivory/68234.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/68234.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "95576",
@@ -544,7 +589,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Anel meia aliança com friso cravejado",
-    "imagem": "assets/produtos/ivory/95576.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/95576.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "95118",
@@ -555,7 +601,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Corrente veneziana 60cm",
-    "imagem": "assets/produtos/ivory/95118.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/95118.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "95296",
@@ -566,7 +613,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar menino com zircônia negra",
-    "imagem": "assets/produtos/ivory/95296.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/95296.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71416",
@@ -577,7 +625,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco flor de navetes azul claro",
-    "imagem": "assets/produtos/ivory/71416.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/71416.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "43662",
@@ -587,7 +636,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola de elos cravejados"
+    "nome": "Brinco argola de elos cravejados",
+    "catalogoNovo": false
   },
   {
     "id": "59014",
@@ -598,7 +648,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Conjunto pérola com coração cristal",
-    "imagem": "assets/produtos/ivory/59014.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59014.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "47091",
@@ -609,7 +660,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Berloque signo de Libra",
-    "imagem": "assets/produtos/ivory/47091.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/47091.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "69148",
@@ -620,7 +672,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar flor de lótus cravejada",
-    "imagem": "assets/produtos/ivory/69148.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/69148.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "46093",
@@ -631,7 +684,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar pingente borboleta",
-    "imagem": "assets/produtos/ivory/46093.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/46093.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "63204",
@@ -642,7 +696,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco gota vazada com coração cristal",
-    "imagem": "assets/produtos/ivory/63204.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/63204.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59177",
@@ -653,7 +708,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Anel menina com aro de bolinhas",
-    "imagem": "assets/produtos/ivory/59177.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59177.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "97614",
@@ -663,7 +719,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar de festa com navetes cristal"
+    "nome": "Colar de festa com navetes cristal",
+    "catalogoNovo": false
   },
   {
     "id": "43633",
@@ -674,7 +731,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco laço com pérola e coração cristal",
-    "imagem": "assets/produtos/ivory/43633.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/43633.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "44373",
@@ -685,7 +743,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar coração com cruz cravejado",
-    "imagem": "assets/produtos/ivory/44373.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/44373.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "45474",
@@ -696,7 +755,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Anel coração cravejado com aro trabalhado",
-    "imagem": "assets/produtos/ivory/45474.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/45474.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59300",
@@ -707,7 +767,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Colar gravatinha com pérolas",
-    "imagem": "assets/produtos/ivory/59300.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59300.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59894",
@@ -718,7 +779,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco mini vazado – coração, círculo e quadrado",
-    "imagem": "assets/produtos/ivory/59894.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59894.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "59838",
@@ -729,7 +791,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco coração vazado liso",
-    "imagem": "assets/produtos/ivory/59838.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/59838.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "44784",
@@ -740,7 +803,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco coração pequeno liso",
-    "imagem": "assets/produtos/ivory/44784.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/44784.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "71421",
@@ -750,7 +814,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola hexagonal"
+    "nome": "Brinco argola hexagonal",
+    "catalogoNovo": false
   },
   {
     "id": "97575",
@@ -761,7 +826,8 @@ const PRODUTOS = [
     "tag": "",
     "vitrine": "",
     "nome": "Brinco flor de navetes brancas",
-    "imagem": "assets/produtos/ivory/97575.png?v=ivory-54"
+    "imagem": "assets/produtos/ivory/97575.png?v=ivory-54",
+    "catalogoNovo": false
   },
   {
     "id": "46023",
@@ -771,7 +837,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Conjunto coração com pedra lilás"
+    "nome": "Conjunto coração com pedra lilás",
+    "catalogoNovo": false
   },
   {
     "id": "42163",
@@ -781,7 +848,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola cravejada – 6 tamanhos"
+    "nome": "Brinco argola cravejada – 6 tamanhos",
+    "catalogoNovo": false
   },
   {
     "id": "60440",
@@ -791,7 +859,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar flor margarida com pérola"
+    "nome": "Colar flor margarida com pérola",
+    "catalogoNovo": false
   },
   {
     "id": "68203",
@@ -801,7 +870,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco franjas cravejadas de festa"
+    "nome": "Brinco franjas cravejadas de festa",
+    "catalogoNovo": false
   },
   {
     "id": "61805",
@@ -811,7 +881,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Pulseira de elos rolô"
+    "nome": "Pulseira de elos rolô",
+    "catalogoNovo": false
   },
   {
     "id": "59995",
@@ -821,7 +892,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco octogonal com cristal"
+    "nome": "Brinco octogonal com cristal",
+    "catalogoNovo": false
   },
   {
     "id": "60903",
@@ -831,7 +903,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco maxi flor escovada"
+    "nome": "Brinco maxi flor escovada",
+    "catalogoNovo": false
   },
   {
     "id": "95322",
@@ -841,7 +914,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar gota de cristal"
+    "nome": "Colar gota de cristal",
+    "catalogoNovo": false
   },
   {
     "id": "59252",
@@ -851,7 +925,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco longo coração com bolinhas"
+    "nome": "Brinco longo coração com bolinhas",
+    "catalogoNovo": false
   },
   {
     "id": "61189",
@@ -861,7 +936,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel quadrado liso"
+    "nome": "Anel quadrado liso",
+    "catalogoNovo": false
   },
   {
     "id": "97655",
@@ -871,7 +947,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar cruz com pedras turquesa"
+    "nome": "Colar cruz com pedras turquesa",
+    "catalogoNovo": false
   },
   {
     "id": "44967",
@@ -881,7 +958,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola com cruz cravejada"
+    "nome": "Brinco argola com cruz cravejada",
+    "catalogoNovo": false
   },
   {
     "id": "59361",
@@ -891,7 +969,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar árvore da vida cravejado"
+    "nome": "Colar árvore da vida cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "47175",
@@ -901,7 +980,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco ear cuff de folhas cravejadas"
+    "nome": "Brinco ear cuff de folhas cravejadas",
+    "catalogoNovo": false
   },
   {
     "id": "63043",
@@ -911,7 +991,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Conjunto medalha trabalhada"
+    "nome": "Conjunto medalha trabalhada",
+    "catalogoNovo": false
   },
   {
     "id": "60625",
@@ -921,7 +1002,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar amor com cruz e árvore da vida"
+    "nome": "Colar amor com cruz e árvore da vida",
+    "catalogoNovo": false
   },
   {
     "id": "59845",
@@ -931,7 +1013,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco ear jacket barra cravejada"
+    "nome": "Brinco ear jacket barra cravejada",
+    "catalogoNovo": false
   },
   {
     "id": "68173",
@@ -941,7 +1024,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco serpente cravejado"
+    "nome": "Brinco serpente cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "65071",
@@ -951,7 +1035,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Berloque profissão Medicina"
+    "nome": "Berloque profissão Medicina",
+    "catalogoNovo": false
   },
   {
     "id": "61573",
@@ -961,7 +1046,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar relicário coração"
+    "nome": "Colar relicário coração",
+    "catalogoNovo": false
   },
   {
     "id": "91295",
@@ -971,7 +1057,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco piercing coração com ponto de luz"
+    "nome": "Brinco piercing coração com ponto de luz",
+    "catalogoNovo": false
   },
   {
     "id": "59157",
@@ -981,7 +1068,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Pingente menina com pedra rosa"
+    "nome": "Pingente menina com pedra rosa",
+    "catalogoNovo": false
   },
   {
     "id": "71370",
@@ -991,7 +1079,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco ponto de luz com halo"
+    "nome": "Brinco ponto de luz com halo",
+    "catalogoNovo": false
   },
   {
     "id": "71265",
@@ -1001,7 +1090,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Berloque separador cravejado"
+    "nome": "Berloque separador cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "97698",
@@ -1011,7 +1101,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar mandala com baguetes"
+    "nome": "Colar mandala com baguetes",
+    "catalogoNovo": false
   },
   {
     "id": "61087",
@@ -1021,20 +1112,22 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Conjunto triângulo com cristal"
+    "nome": "Conjunto triângulo com cristal",
+    "catalogoNovo": false
   },
   {
-  "id": "61236",
-  "cat": "Correntes",
-  "mat": "Folheado a ouro 18k",
-  "preco": 119.2,
-  "de": 0,
-  "tag": "",
-  "vitrine": "para-eles",
-  "nome": "Corrente masculina veneziana 40cm",
-  "publico": "para-eles",
-  "secao": "para-eles"
-},
+    "id": "61236",
+    "cat": "Correntes",
+    "mat": "Folheado a ouro 18k",
+    "preco": 119.2,
+    "de": 0,
+    "tag": "",
+    "vitrine": "para-eles",
+    "nome": "Corrente masculina veneziana 40cm",
+    "publico": "para-eles",
+    "secao": "para-eles",
+    "catalogoNovo": false
+  },
   {
     "id": "61653",
     "cat": "Colares",
@@ -1043,7 +1136,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar com pedras coloridas"
+    "nome": "Colar com pedras coloridas",
+    "catalogoNovo": false
   },
   {
     "id": "61098",
@@ -1053,7 +1147,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Escapulário cruz vazada com oração"
+    "nome": "Escapulário cruz vazada com oração",
+    "catalogoNovo": false
   },
   {
     "id": "69187",
@@ -1063,7 +1158,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel coração duplo vazado cravejado"
+    "nome": "Anel coração duplo vazado cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "59270",
@@ -1073,7 +1169,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar peixinho com navete cristal"
+    "nome": "Colar peixinho com navete cristal",
+    "catalogoNovo": false
   },
   {
     "id": "61691",
@@ -1083,7 +1180,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Pulseira flor com pérola"
+    "nome": "Pulseira flor com pérola",
+    "catalogoNovo": false
   },
   {
     "id": "42008",
@@ -1093,7 +1191,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco retangular texturizado em leque"
+    "nome": "Brinco retangular texturizado em leque",
+    "catalogoNovo": false
   },
   {
     "id": "44578",
@@ -1103,7 +1202,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel meia aliança com rosetas cravejadas"
+    "nome": "Anel meia aliança com rosetas cravejadas",
+    "catalogoNovo": false
   },
   {
     "id": "95344",
@@ -1113,7 +1213,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel com medalhinha de coração"
+    "nome": "Anel com medalhinha de coração",
+    "catalogoNovo": false
   },
   {
     "id": "68024",
@@ -1123,7 +1224,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar love com charms cravejados"
+    "nome": "Colar love com charms cravejados",
+    "catalogoNovo": false
   },
   {
     "id": "43190",
@@ -1133,7 +1235,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar mandala árvore da vida em baguetes"
+    "nome": "Colar mandala árvore da vida em baguetes",
+    "catalogoNovo": false
   },
   {
     "id": "95285",
@@ -1143,7 +1246,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar elos entrelaçados cravejado"
+    "nome": "Colar elos entrelaçados cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "63376",
@@ -1153,7 +1257,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco coração em zircônia negra"
+    "nome": "Brinco coração em zircônia negra",
+    "catalogoNovo": false
   },
   {
     "id": "89147",
@@ -1163,7 +1268,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel filhos com berloques menino e menina"
+    "nome": "Anel filhos com berloques menino e menina",
+    "catalogoNovo": false
   },
   {
     "id": "44831",
@@ -1173,7 +1279,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar chuveirinho com zircônias"
+    "nome": "Colar chuveirinho com zircônias",
+    "catalogoNovo": false
   },
   {
     "id": "46097",
@@ -1183,7 +1290,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar mamãe com menino e menina"
+    "nome": "Colar mamãe com menino e menina",
+    "catalogoNovo": false
   },
   {
     "id": "59156",
@@ -1193,7 +1301,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Pingente menino com pedra azul"
+    "nome": "Pingente menino com pedra azul",
+    "catalogoNovo": false
   },
   {
     "id": "95466",
@@ -1203,7 +1312,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel largo vazado em raios"
+    "nome": "Anel largo vazado em raios",
+    "catalogoNovo": false
   },
   {
     "id": "68242",
@@ -1213,7 +1323,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel solitário quadrado princesa"
+    "nome": "Anel solitário quadrado princesa",
+    "catalogoNovo": false
   },
   {
     "id": "61280",
@@ -1223,7 +1334,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel trançado infinito"
+    "nome": "Anel trançado infinito",
+    "catalogoNovo": false
   },
   {
     "id": "47069",
@@ -1233,7 +1345,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola coração cravejada"
+    "nome": "Brinco argola coração cravejada",
+    "catalogoNovo": false
   },
   {
     "id": "61758",
@@ -1243,7 +1356,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Pulseira patinha cravejada"
+    "nome": "Pulseira patinha cravejada",
+    "catalogoNovo": false
   },
   {
     "id": "65036",
@@ -1253,7 +1367,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar Nossa Senhora Aparecida cravejado"
+    "nome": "Colar Nossa Senhora Aparecida cravejado",
+    "catalogoNovo": true
   },
   {
     "id": "71059",
@@ -1263,7 +1378,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco pastilha oval cravejada"
+    "nome": "Brinco pastilha oval cravejada",
+    "catalogoNovo": false
   },
   {
     "id": "59777",
@@ -1273,7 +1389,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco coração cristal"
+    "nome": "Brinco coração cristal",
+    "catalogoNovo": false
   },
   {
     "id": "89123",
@@ -1283,7 +1400,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel largo três fileiras cravejadas"
+    "nome": "Anel largo três fileiras cravejadas",
+    "catalogoNovo": false
   },
   {
     "id": "95955",
@@ -1293,7 +1411,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Berloque signo de Áries"
+    "nome": "Berloque signo de Áries",
+    "catalogoNovo": false
   },
   {
     "id": "49009",
@@ -1303,7 +1422,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Colar pingente menino"
+    "nome": "Colar pingente menino",
+    "catalogoNovo": false
   },
   {
     "id": "61274",
@@ -1313,7 +1433,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Anel círculo com ponto de luz"
+    "nome": "Anel círculo com ponto de luz",
+    "catalogoNovo": false
   },
   {
     "id": "68190",
@@ -1323,7 +1444,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco laço liso com friso cravejado"
+    "nome": "Brinco laço liso com friso cravejado",
+    "catalogoNovo": false
   },
   {
     "id": "61183",
@@ -1333,7 +1455,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Bracelete rígido com argolas 6,5cm"
+    "nome": "Bracelete rígido com argolas 6,5cm",
+    "catalogoNovo": false
   },
   {
     "id": "43462",
@@ -1343,7 +1466,8 @@ const PRODUTOS = [
     "de": 0,
     "tag": "",
     "vitrine": "",
-    "nome": "Brinco argola com moeda lisa"
+    "nome": "Brinco argola com moeda lisa",
+    "catalogoNovo": false
   },
   {
     "de": 0,
@@ -1355,24 +1479,24 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 178.4,
     "imagem": "assets/produtos/catalogo-1610/47132.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
-  "de": 0,
-  "tag": "",
-  "vitrine": "para-eles",
-  "id": "95152",
-  "nome": "Pulseira masculina Prata 925",
-  "cat": "Pulseiras",
-  "mat": "Prata 925",
-  "preco": 213.6,
-  "imagem": "assets/produtos/catalogo-1610/95152.png?v=1610",
-  "catalogoNovo": true,
-  "adicionadoCatalogo1610": true,
-  "publico": "para-eles",
-  "secao": "para-eles"
-},
+    "de": 0,
+    "tag": "",
+    "vitrine": "para-eles",
+    "id": "95152",
+    "nome": "Pulseira masculina Prata 925",
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "preco": 213.6,
+    "imagem": "assets/produtos/catalogo-1610/95152.png?v=1610",
+    "catalogoNovo": false,
+    "adicionadoCatalogo1610": true,
+    "publico": "para-eles",
+    "secao": "para-eles"
+  },
   {
     "de": 0,
     "tag": "",
@@ -1383,7 +1507,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/43677.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1396,7 +1520,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 217.6,
     "imagem": "assets/produtos/catalogo-1610/59128.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1409,7 +1533,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 396.8,
     "imagem": "assets/produtos/catalogo-1610/44119.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1422,7 +1546,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/68307.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1435,7 +1559,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 139.2,
     "imagem": "assets/produtos/catalogo-1610/95649.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1448,7 +1572,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 67.2,
     "imagem": "assets/produtos/catalogo-1610/42091.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1461,7 +1585,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 224.8,
     "imagem": "assets/produtos/catalogo-1610/69291.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1474,7 +1598,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 209.6,
     "imagem": "assets/produtos/catalogo-1610/45495.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1487,7 +1611,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 435.2,
     "imagem": "assets/produtos/catalogo-1610/71065.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1500,24 +1624,24 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 247.2,
     "imagem": "assets/produtos/catalogo-1610/61873.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
-  "de": 0,
-  "tag": "",
-  "vitrine": "para-eles",
-  "id": "61245",
-  "nome": "Corrente masculina 60cm Folheado a Ouro",
-  "cat": "Correntes",
-  "mat": "Folheado a Ouro",
-  "preco": 219.2,
-  "imagem": "assets/produtos/catalogo-1610/61245.png?v=1610",
-  "catalogoNovo": true,
-  "adicionadoCatalogo1610": true,
-  "publico": "para-eles",
-  "secao": "para-eles"
-},
+    "de": 0,
+    "tag": "",
+    "vitrine": "para-eles",
+    "id": "61245",
+    "nome": "Corrente masculina 60cm Folheado a Ouro",
+    "cat": "Correntes",
+    "mat": "Folheado a Ouro",
+    "preco": 219.2,
+    "imagem": "assets/produtos/catalogo-1610/61245.png?v=1610",
+    "catalogoNovo": false,
+    "adicionadoCatalogo1610": true,
+    "publico": "para-eles",
+    "secao": "para-eles"
+  },
   {
     "de": 0,
     "tag": "",
@@ -1528,7 +1652,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 135.2,
     "imagem": "assets/produtos/catalogo-1610/59565.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1541,7 +1665,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 98.4,
     "imagem": "assets/produtos/catalogo-1610/61397.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1554,7 +1678,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 76.8,
     "imagem": "assets/produtos/catalogo-1610/42095.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1567,7 +1691,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 176.8,
     "imagem": "assets/produtos/catalogo-1610/69252.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1580,7 +1704,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 258.4,
     "imagem": "assets/produtos/catalogo-1610/70059.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1593,7 +1717,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 224.8,
     "imagem": "assets/produtos/catalogo-1610/43692.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1606,7 +1730,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 119.2,
     "imagem": "assets/produtos/catalogo-1610/60313.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1619,7 +1743,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/68210.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1632,7 +1756,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 217.6,
     "imagem": "assets/produtos/catalogo-1610/43587.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1645,7 +1769,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 209.6,
     "imagem": "assets/produtos/catalogo-1610/69270.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1658,7 +1782,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 399.2,
     "imagem": "assets/produtos/catalogo-1610/68063.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1671,7 +1795,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 435.2,
     "imagem": "assets/produtos/catalogo-1610/71074.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1684,7 +1808,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 245.6,
     "imagem": "assets/produtos/catalogo-1610/61801.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1697,7 +1821,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 145.6,
     "imagem": "assets/produtos/catalogo-1610/59092.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1710,7 +1834,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 243.2,
     "imagem": "assets/produtos/catalogo-1610/47206.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1723,7 +1847,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/65032.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1736,7 +1860,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 115.2,
     "imagem": "assets/produtos/catalogo-1610/63395.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1749,7 +1873,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 199.2,
     "imagem": "assets/produtos/catalogo-1610/63398.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1762,7 +1886,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 219.2,
     "imagem": "assets/produtos/catalogo-1610/61091.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1775,7 +1899,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 134.4,
     "imagem": "assets/produtos/catalogo-1610/59771.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1788,7 +1912,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 547.2,
     "imagem": "assets/produtos/catalogo-1610/68013.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1801,7 +1925,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 99.2,
     "imagem": "assets/produtos/catalogo-1610/60639.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1814,7 +1938,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 288.8,
     "imagem": "assets/produtos/catalogo-1610/44916.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1827,7 +1951,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 279.2,
     "imagem": "assets/produtos/catalogo-1610/68256.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1840,7 +1964,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 149.6,
     "imagem": "assets/produtos/catalogo-1610/60531.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1853,7 +1977,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 149.6,
     "imagem": "assets/produtos/catalogo-1610/43035.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1866,7 +1990,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 69.6,
     "imagem": "assets/produtos/catalogo-1610/42085.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1879,7 +2003,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 249.6,
     "imagem": "assets/produtos/catalogo-1610/61876.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1892,7 +2016,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 56.8,
     "imagem": "assets/produtos/catalogo-1610/42089.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1905,7 +2029,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 165.6,
     "imagem": "assets/produtos/catalogo-1610/59851.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1931,7 +2055,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 204.8,
     "imagem": "assets/produtos/catalogo-1610/59896.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1944,7 +2068,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 56.8,
     "imagem": "assets/produtos/catalogo-1610/42088.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1957,7 +2081,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 199.2,
     "imagem": "assets/produtos/catalogo-1610/42230.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1970,7 +2094,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 328.8,
     "imagem": "assets/produtos/catalogo-1610/71051.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1983,7 +2107,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 224.8,
     "imagem": "assets/produtos/catalogo-1610/59866.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -1996,7 +2120,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 367.2,
     "imagem": "assets/produtos/catalogo-1610/43136.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2009,7 +2133,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 139.2,
     "imagem": "assets/produtos/catalogo-1610/43590.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2022,7 +2146,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 215.2,
     "imagem": "assets/produtos/catalogo-1610/71406.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2035,7 +2159,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 109.6,
     "imagem": "assets/produtos/catalogo-1610/42188.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2048,7 +2172,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 164.8,
     "imagem": "assets/produtos/catalogo-1610/60621.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2061,7 +2185,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 234.4,
     "imagem": "assets/produtos/catalogo-1610/60386.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2074,7 +2198,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 167.2,
     "imagem": "assets/produtos/catalogo-1610/59149.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2087,7 +2211,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 189.6,
     "imagem": "assets/produtos/catalogo-1610/46536.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2100,7 +2224,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 175.2,
     "imagem": "assets/produtos/catalogo-1610/61795.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2113,7 +2237,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 156.8,
     "imagem": "assets/produtos/catalogo-1610/59273.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2126,7 +2250,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 164.8,
     "imagem": "assets/produtos/catalogo-1610/69405.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2139,7 +2263,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/61831.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2152,7 +2276,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 146.4,
     "imagem": "assets/produtos/catalogo-1610/60407.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2165,7 +2289,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/69196.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2178,7 +2302,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 177.6,
     "imagem": "assets/produtos/catalogo-1610/61906.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2191,7 +2315,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 472.8,
     "imagem": "assets/produtos/catalogo-1610/60582.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2204,7 +2328,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 139.2,
     "imagem": "assets/produtos/catalogo-1610/43077.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2217,7 +2341,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 135.2,
     "imagem": "assets/produtos/catalogo-1610/42010.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2230,7 +2354,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 124.8,
     "imagem": "assets/produtos/catalogo-1610/61718.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2243,7 +2367,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 256.8,
     "imagem": "assets/produtos/catalogo-1610/43256.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2256,7 +2380,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 123.2,
     "imagem": "assets/produtos/catalogo-1610/69387.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2269,7 +2393,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 164.8,
     "imagem": "assets/produtos/catalogo-1610/43717.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2282,7 +2406,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 128.8,
     "imagem": "assets/produtos/catalogo-1610/46375.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2295,7 +2419,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 429.6,
     "imagem": "assets/produtos/catalogo-1610/68039.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2308,7 +2432,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 189.6,
     "imagem": "assets/produtos/catalogo-1610/44297.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2321,7 +2445,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 196.8,
     "imagem": "assets/produtos/catalogo-1610/59337.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2334,7 +2458,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 207.2,
     "imagem": "assets/produtos/catalogo-1610/69264.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2347,7 +2471,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 259.2,
     "imagem": "assets/produtos/catalogo-1610/47162.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2360,7 +2484,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 147.2,
     "imagem": "assets/produtos/catalogo-1610/59216.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2373,7 +2497,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 99.2,
     "imagem": "assets/produtos/catalogo-1610/95159.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2386,7 +2510,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 44.8,
     "imagem": "assets/produtos/catalogo-1610/69411.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2399,7 +2523,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 118.4,
     "imagem": "assets/produtos/catalogo-1610/59736.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2412,7 +2536,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 75.2,
     "imagem": "assets/produtos/catalogo-1610/61162.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2425,7 +2549,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 115.2,
     "imagem": "assets/produtos/catalogo-1610/61340.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2438,7 +2562,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 127.2,
     "imagem": "assets/produtos/catalogo-1610/71499.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2451,7 +2575,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 176.8,
     "imagem": "assets/produtos/catalogo-1610/60613.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2464,7 +2588,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 287.2,
     "imagem": "assets/produtos/catalogo-1610/71237.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2477,7 +2601,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 432.8,
     "imagem": "assets/produtos/catalogo-1610/42229.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2490,7 +2614,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 219.2,
     "imagem": "assets/produtos/catalogo-1610/69249.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2503,7 +2627,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 76.8,
     "imagem": "assets/produtos/catalogo-1610/59778.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2516,7 +2640,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 259.2,
     "imagem": "assets/produtos/catalogo-1610/60753.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2529,7 +2653,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 123.2,
     "imagem": "assets/produtos/catalogo-1610/42025.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2542,7 +2666,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 203.2,
     "imagem": "assets/produtos/catalogo-1610/43315.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2568,7 +2692,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 256.8,
     "imagem": "assets/produtos/catalogo-1610/61827.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2581,7 +2705,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 186.4,
     "imagem": "assets/produtos/catalogo-1610/59170.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2594,7 +2718,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 317.6,
     "imagem": "assets/produtos/catalogo-1610/59453.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2607,7 +2731,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 289.6,
     "imagem": "assets/produtos/catalogo-1610/71272.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2620,7 +2744,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 228.8,
     "imagem": "assets/produtos/catalogo-1610/70044.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2633,7 +2757,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 315.2,
     "imagem": "assets/produtos/catalogo-1610/43199.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2646,7 +2770,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 115.2,
     "imagem": "assets/produtos/catalogo-1610/69261.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2672,7 +2796,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 124.8,
     "imagem": "assets/produtos/catalogo-1610/95600.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2685,7 +2809,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 197.6,
     "imagem": "assets/produtos/catalogo-1610/97660.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2698,7 +2822,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 156.8,
     "imagem": "assets/produtos/catalogo-1610/71486.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2711,7 +2835,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 51.2,
     "imagem": "assets/produtos/catalogo-1610/69359.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2724,7 +2848,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 249.6,
     "imagem": "assets/produtos/catalogo-1610/60826.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2737,7 +2861,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 374.4,
     "imagem": "assets/produtos/catalogo-1610/47249.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2750,7 +2874,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 194.4,
     "imagem": "assets/produtos/catalogo-1610/44171.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2763,7 +2887,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 187.2,
     "imagem": "assets/produtos/catalogo-1610/59352.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2776,7 +2900,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 136.8,
     "imagem": "assets/produtos/catalogo-1610/59136.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2789,7 +2913,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 412.8,
     "imagem": "assets/produtos/catalogo-1610/47161.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2802,7 +2926,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 185.6,
     "imagem": "assets/produtos/catalogo-1610/71373.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2815,7 +2939,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 152.8,
     "imagem": "assets/produtos/catalogo-1610/43304.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2828,7 +2952,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 44.8,
     "imagem": "assets/produtos/catalogo-1610/42175.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2841,7 +2965,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 99.2,
     "imagem": "assets/produtos/catalogo-1610/68243.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2854,7 +2978,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 87.2,
     "imagem": "assets/produtos/catalogo-1610/65056.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2867,7 +2991,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 128.8,
     "imagem": "assets/produtos/catalogo-1610/59240.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2880,7 +3004,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 149.6,
     "imagem": "assets/produtos/catalogo-1610/61796.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2893,7 +3017,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 52.8,
     "imagem": "assets/produtos/catalogo-1610/61438.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2906,7 +3030,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 178.4,
     "imagem": "assets/produtos/catalogo-1610/71318.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2919,7 +3043,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 408,
     "imagem": "assets/produtos/catalogo-1610/68068.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2932,7 +3056,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 219.2,
     "imagem": "assets/produtos/catalogo-1610/69251.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2945,7 +3069,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 144.8,
     "imagem": "assets/produtos/catalogo-1610/63409.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2958,7 +3082,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 169.6,
     "imagem": "assets/produtos/catalogo-1610/59135.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2971,7 +3095,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 112.8,
     "imagem": "assets/produtos/catalogo-1610/42031.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -2984,24 +3108,24 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 299.2,
     "imagem": "assets/produtos/catalogo-1610/68052.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
-  "de": 0,
-  "tag": "",
-  "vitrine": "para-eles",
-  "id": "95123",
-  "nome": "Corrente masculina Prata 925",
-  "cat": "Correntes",
-  "mat": "Prata 925",
-  "preco": 212.8,
-  "imagem": "assets/produtos/catalogo-1610/95123.png?v=1610",
-  "catalogoNovo": true,
-  "adicionadoCatalogo1610": true,
-  "publico": "para-eles",
-  "secao": "para-eles"
-},
+    "de": 0,
+    "tag": "",
+    "vitrine": "para-eles",
+    "id": "95123",
+    "nome": "Corrente masculina Prata 925",
+    "cat": "Correntes",
+    "mat": "Prata 925",
+    "preco": 212.8,
+    "imagem": "assets/produtos/catalogo-1610/95123.png?v=1610",
+    "catalogoNovo": false,
+    "adicionadoCatalogo1610": true,
+    "publico": "para-eles",
+    "secao": "para-eles"
+  },
   {
     "de": 0,
     "tag": "",
@@ -3012,7 +3136,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 262.4,
     "imagem": "assets/produtos/catalogo-1610/71167.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3025,7 +3149,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 179.2,
     "imagem": "assets/produtos/catalogo-1610/59455.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3038,7 +3162,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 424.8,
     "imagem": "assets/produtos/catalogo-1610/44475.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3051,7 +3175,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 279.2,
     "imagem": "assets/produtos/catalogo-1610/60506.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3064,7 +3188,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 219.2,
     "imagem": "assets/produtos/catalogo-1610/59314.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3077,7 +3201,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 324.8,
     "imagem": "assets/produtos/catalogo-1610/59274.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3090,7 +3214,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 289.6,
     "imagem": "assets/produtos/catalogo-1610/69399.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3103,7 +3227,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 249.6,
     "imagem": "assets/produtos/catalogo-1610/59864.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3116,7 +3240,7 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 227.2,
     "imagem": "assets/produtos/catalogo-1610/59362.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3129,7 +3253,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 115.2,
     "imagem": "assets/produtos/catalogo-1610/59424.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3142,7 +3266,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 264.8,
     "imagem": "assets/produtos/catalogo-1610/61093.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3155,7 +3279,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 159.2,
     "imagem": "assets/produtos/catalogo-1610/43403.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3168,7 +3292,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 115.2,
     "imagem": "assets/produtos/catalogo-1610/61792.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3181,7 +3305,7 @@ const PRODUTOS = [
     "mat": "Folheado a Ouro",
     "preco": 236.8,
     "imagem": "assets/produtos/catalogo-1610/44304.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
   },
   {
@@ -3194,13 +3318,1849 @@ const PRODUTOS = [
     "mat": "Prata 925",
     "preco": 139.2,
     "imagem": "assets/produtos/catalogo-1610/69023.png?v=1610",
-    "catalogoNovo": true,
+    "catalogoNovo": false,
     "adicionadoCatalogo1610": true
+  },
+  {
+    "id": "65062",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 49.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65062.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69215",
+    "nome": "Anel Prata 925",
+    "preco": 139.2,
+    "cat": "Anéis",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69215.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61859",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 208.8,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61859.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "65039",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 165.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65039.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95575",
+    "nome": "Berloque Prata 925",
+    "preco": 147.2,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95575.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59603",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 49.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59603.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "47236",
+    "nome": "Brinco Prata 925",
+    "preco": 259.2,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/47236.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "49066",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 176.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/49066.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44701",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 163.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44701.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69279",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 162.4,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69279.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59786",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 99.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59786.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43210",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 163.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43210.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69287",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 265.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69287.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71454",
+    "nome": "Berloque Prata 925",
+    "preco": 137.6,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71454.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68236",
+    "nome": "Brinco Prata 925",
+    "preco": 465.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68236.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71043",
+    "nome": "Berloque Prata 925",
+    "preco": 124.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71043.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61963",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 159.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61963.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61069",
+    "nome": "Conjunto Folheado a Ouro",
+    "preco": 326.4,
+    "cat": "Conjuntos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61069.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69437",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 41.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69437.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71464",
+    "nome": "Berloque Prata 925",
+    "preco": 187.2,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71464.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44858",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 207.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44858.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43453",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 187.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43453.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42116",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 49.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42116.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61251",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 129.6,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61251.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43273",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 386.4,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43273.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69494",
+    "nome": "Brinco Prata 925",
+    "preco": 65.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69494.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71152",
+    "nome": "Gargantilha Prata 925",
+    "preco": 179.2,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71152.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "65050",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 179.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65050.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42100",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 159.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42100.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59188",
+    "nome": "Anel Prata 925",
+    "preco": 169.6,
+    "cat": "Anéis",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59188.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59302",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 149.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59302.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59843",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 97.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59843.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59709",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 96.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59709.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60084",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 116.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60084.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61299",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 192.8,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61299.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59429",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 179.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59429.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68287",
+    "nome": "Anel Prata 925",
+    "preco": 207.2,
+    "cat": "Anéis",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68287.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42086",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 52.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42086.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69233",
+    "nome": "Gargantilha Prata 925",
+    "preco": 187.2,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69233.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60667",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 315.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60667.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69290",
+    "nome": "Gargantilha Prata 925",
+    "preco": 297.6,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69290.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71496",
+    "nome": "Brinco Prata 925",
+    "preco": 359.2,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71496.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59347",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 167.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59347.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71485",
+    "nome": "Brinco Prata 925",
+    "preco": 189.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71485.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95472",
+    "nome": "Berloque Prata 925",
+    "preco": 141.6,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95472.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61067",
+    "nome": "Conjunto Folheado a Ouro",
+    "preco": 456.8,
+    "cat": "Conjuntos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61067.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71654",
+    "nome": "Berloque Prata 925",
+    "preco": 264.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71654.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42250",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 151.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42250.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59903",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 124.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59903.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69485",
+    "nome": "Brinco Prata 925",
+    "preco": 72.8,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69485.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71137",
+    "nome": "Pulseira Prata 925",
+    "preco": 274.4,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71137.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61273",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 152.8,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61273.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59365",
+    "nome": "Gargantilha Prata 925",
+    "preco": 488.8,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59365.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68218",
+    "nome": "Brinco Prata 925",
+    "preco": 89.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68218.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43300",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 123.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43300.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59462",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 248.8,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59462.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42099",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 179.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42099.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69255",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 209.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69255.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60250",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 104.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60250.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "94221",
+    "nome": "Berloque Prata 925",
+    "preco": 110.4,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/94221.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59063",
+    "nome": "Pulseira Folheado a Ouro",
+    "preco": 115.2,
+    "cat": "Pulseiras",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59063.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60047",
+    "nome": "Pulseira Folheado a Ouro",
+    "preco": 129.6,
+    "cat": "Pulseiras",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60047.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95513",
+    "nome": "Berloque Prata 925",
+    "preco": 151.2,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95513.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59355",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 229.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59355.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61134",
+    "nome": "Tornozeleira Folheado a Ouro",
+    "preco": 129.6,
+    "cat": "Tornozeleiras",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61134.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59971",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 124.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59971.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71182",
+    "nome": "Brinco Prata 925",
+    "preco": 147.2,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71182.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59816",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 75.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59816.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71031",
+    "nome": "Gargantilha Prata 925",
+    "preco": 198.4,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71031.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71209",
+    "nome": "Gargantilha Prata 925",
+    "preco": 344.8,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71209.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61353",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 103.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61353.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61309",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 149.6,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61309.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "65031",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 174.4,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65031.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71172",
+    "nome": "Pulseira Berloqueira 19cm Prata 925",
+    "preco": 629.6,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71172.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43589",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 139.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43589.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43317",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 144.8,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43317.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60608",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 179.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60608.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63307",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 185.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63307.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60340",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 128.8,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60340.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69181",
+    "nome": "Brinco Prata 925",
+    "preco": 178.4,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69181.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63042",
+    "nome": "Conjunto Folheado a Ouro",
+    "preco": 287.2,
+    "cat": "Conjuntos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63042.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63504",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 96.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63504.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68204",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 139.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68204.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59228",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 234.4,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59228.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43299",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 123.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43299.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95460",
+    "nome": "Berloque Prata 925",
+    "preco": 163.2,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95460.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "61776",
+    "nome": "Pulseira Folheado a Ouro",
+    "preco": 152.8,
+    "cat": "Pulseiras",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/61776.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43240",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 158.4,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43240.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42098",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 92.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42098.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69038",
+    "nome": "Berloque Prata 925",
+    "preco": 144.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69038.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71479",
+    "nome": "Berloque Prata 925",
+    "preco": 177.6,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71479.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71284",
+    "nome": "Brinco Prata 925",
+    "preco": 259.2,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71284.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68214",
+    "nome": "Brinco Prata 925",
+    "preco": 89.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68214.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60672",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 194.4,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60672.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60618",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 209.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60618.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43441",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 196.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43441.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42174",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 76.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42174.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60751",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 67.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60751.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44970",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 193.6,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44970.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44736",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 293.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44736.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71487",
+    "nome": "Brinco Prata 925",
+    "preco": 237.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71487.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42137",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 99.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42137.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71069",
+    "nome": "Conjunto Prata 925",
+    "preco": 435.2,
+    "cat": "Conjuntos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71069.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95191",
+    "nome": "Berloque Prata 925",
+    "preco": 110.4,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95191.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71201",
+    "nome": "Berloque Prata 925",
+    "preco": 168.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71201.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42115",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 84.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42115.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59441",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 93.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59441.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60553",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 187.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60553.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63108",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 278.4,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63108.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95561",
+    "nome": "Anel Prata 925",
+    "preco": 99.2,
+    "cat": "Anéis",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95561.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44125",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 174.4,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44125.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59336",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 275.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59336.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "65063",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 134.4,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65063.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42260",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 148.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42260.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71501",
+    "nome": "Berloque Prata 925",
+    "preco": 164.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71501.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71505",
+    "nome": "Berloque Prata 925",
+    "preco": 166.4,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71505.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71184",
+    "nome": "Berloque Prata 925",
+    "preco": 146.4,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71184.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42296",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 39.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42296.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71023",
+    "nome": "Berloque Prata 925",
+    "preco": 179.2,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71023.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71158",
+    "nome": "Pulseira Prata 925",
+    "preco": 209.6,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71158.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69306",
+    "nome": "Brinco Prata 925",
+    "preco": 157.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69306.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63455",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 79.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63455.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "44056",
+    "nome": "Conjunto Folheado a Ouro",
+    "preco": 376.8,
+    "cat": "Conjuntos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/44056.png?v=original-20261114",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43191",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 622.4,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43191.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42238",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 97.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42238.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59330",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 126.4,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59330.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "97106",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 115.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/97106.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60605",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 197.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60605.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60607",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 232.8,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60607.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60649",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 127.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60649.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71164",
+    "nome": "Pulseira Prata 925",
+    "preco": 303.2,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71164.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63479",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 47.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63479.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68023",
+    "nome": "Pulseira Prata 925",
+    "preco": 196.8,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68023.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "68211",
+    "nome": "Brinco Prata 925",
+    "preco": 169.6,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/68211.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59731",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 192.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59731.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69004",
+    "nome": "Tornozeleira Prata 925",
+    "preco": 156.8,
+    "cat": "Tornozeleiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69004.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95250",
+    "nome": "Berloque Prata 925",
+    "preco": 168.8,
+    "cat": "Berloques",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95250.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59349",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 179.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59349.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59473",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 135.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59473.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "95423",
+    "nome": "Gargantilha Prata 925",
+    "preco": 498.4,
+    "cat": "Colares",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/95423.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59353",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 187.2,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59353.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "71165",
+    "nome": "Pulseira Prata 925",
+    "preco": 303.2,
+    "cat": "Pulseiras",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/71165.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42275",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 123.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42275.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42235",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 47.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42235.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42190",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 98.4,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42190.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69502",
+    "nome": "Brinco Prata 925",
+    "preco": 132.8,
+    "cat": "Brincos",
+    "mat": "Prata 925",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69502.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "43495",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 79.2,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/43495.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "59410",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 129.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/59410.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "60589",
+    "nome": "Gargantilha Folheado a Ouro",
+    "preco": 149.6,
+    "cat": "Colares",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/60589.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "69284",
+    "nome": "Anel Folheado a Ouro",
+    "preco": 195.2,
+    "cat": "Anéis",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/69284.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "42113",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 129.6,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/42113.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "63487",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 44.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/63487.png?v=20261113",
+    "catalogoNovo": true
+  },
+  {
+    "id": "65049",
+    "nome": "Brinco Folheado a Ouro",
+    "preco": 232.8,
+    "cat": "Brincos",
+    "mat": "Folheado a Ouro",
+    "de": 0,
+    "tag": "",
+    "vitrine": "",
+    "imagem": "assets/produtos/catalogo-1311/65049.png?v=20261113",
+    "catalogoNovo": true
   }
 ];
 
 // Mantém a quantidade de peças da vitrine Novidades da Home.
-const NOVIDADES_IDS = ["44119","68307","61718","71237","47206","71065"];
+const NOVIDADES_IDS = ["59786","42238","59462","59410","44056","69279"];
 
 /* Círculos de categoria do topo — "capa" é o código da peça usada como foto */
 const CATEGORIAS = [

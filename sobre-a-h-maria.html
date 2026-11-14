@@ -662,8 +662,8 @@ main,section,.faixa{background-color:transparent}
 @media(max-width:560px){.logo.brand-logo{width:150px}}
 </style><style id="home-section-visibility">section[data-store-section][hidden]{display:none!important}</style>
 <link rel="stylesheet" href="header-layout.css?v=mobile-menu-2">
-<link rel="stylesheet" href="palette.css">
-<link rel="stylesheet" href="product-layout.css?v=pg-stock-1710">
+<link rel="stylesheet" href="palette.css?v=marfim-20261114">
+<link rel="stylesheet" href="product-layout.css?v=marfim-20261114">
 <link rel="stylesheet" href="checkout.css?v=checkout-1">
 <style>
 .about-page{max-width:1160px;margin:0 auto;padding:36px 28px 84px}
@@ -867,8 +867,9 @@ main,section,.faixa{background-color:transparent}
 <script src="config.js"></script>
 <script src="checkout.js?v=checkout-1"></script>
 <!-- as peças do catálogo -->
-<script src="produtos.js?v=masculino-95123"></script>
-<script src="relogios.js"></script>
+<script src="produtos.js?v=restaurado-20261114-1"></script>
+<script src="relogios.js?v=restaurado-20261114-1"></script>
+<script src="product-photos.js?v=marfim-20261114"></script>
 <script src="catalog-sections.js?v=categories-4"></script>
 <script src="catalog-navigation.js?v=categories-4"></script>
 
@@ -880,7 +881,7 @@ main,section,.faixa{background-color:transparent}
 const $  = (s, e = document) => e.querySelector(s);
 const $$ = (s, e = document) => [...e.querySelectorAll(s)];
 const brl = n => n.toLocaleString("pt-BR", { style:"currency", currency:"BRL" });
-const foto = p => p.imagem || "assets/produtos/" + p.id + ".jpg";
+const foto = p => ProductPhotos.url(p);
 const byId = id => PRODUTOS.find(p => p.id === id);
 
 /* ---------- identidade ---------- */
@@ -903,7 +904,7 @@ $("#mmenu-cats").innerHTML=MENU_CATS.map(nome=>`<a href="${CatalogSections.url({
 /* ---------- card ---------- */
 const parcelaTxt = () => `Em até <b>${CONFIG.parcelas}x</b> no cartão`;
 
-const stockLinkHTML = p => p.catalogoNovo || CatalogSections.category(p) === "Relógios" ? "" : `<a class="stock-check" href="${waLink(`Olá! Gostaria de verificar a disponibilidade desta peça: ${p.nome} – Ref. ${p.id}.`)}" target="_blank" rel="noopener noreferrer">VERIFICAR ESTOQUE</a>`;
+const stockLinkHTML = p => p.catalogoNovo ? "" : `<a class="stock-check" href="${waLink(`Olá! Gostaria de verificar a disponibilidade desta peça: ${p.nome} – Ref. ${p.id}.`)}" target="_blank" rel="noopener noreferrer">VERIFICAR ESTOQUE</a>`;
 
 const cardHTML = (p, searchResult = false) => `
   <article class="card" data-id="${p.id}">
